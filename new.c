@@ -6,4 +6,5 @@ int main()
     printf("Enter two numbers: ");
     scanf("%d %d",&a,&b);
     printf("sum=%d",a+b);
+    printf("sub=%d",a-b);
 }
